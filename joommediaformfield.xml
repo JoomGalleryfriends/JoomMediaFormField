@@ -2,18 +2,17 @@
 <extension version="3.0" type="plugin" group="system" method="upgrade">
   <name>Joom Media Form Field</name>
   <author>JoomGallery::ProjectTeam</author>
-  <creationDate>21.05.2016</creationDate>
-  <copyright>Copyright (C) 2016 JoomGallery::ProjectTeam</copyright>
+  <creationDate>2019/04/15</creationDate>
+  <copyright>Copyright (C) 2016 - 2019 JoomGallery::ProjectTeam</copyright>
   <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
-  <authorEmail>team@joomgallery.net</authorEmail>
-  <authorUrl>www.joomgallery.net</authorUrl>
-  <version>1.0</version>
+  <authorUrl>www.joomgalleryfriends.net</authorUrl>
+  <version>3.1.0</version>
   <description>Adds a button to the media form field of Joomla to be able select images from JoomGallery.</description>
   <files>
     <filename plugin="joommediaformfield">joommediaformfield.php</filename>
     <filename>media.php</filename>
   </files>
   <updateservers>
-    <server type="collection" priority="1" name="JoomGallery Update Service">http://www.en.joomgallery.net/components/com_newversion/xml/extensions3.xml</server>
+    <server type="collection" priority="1" name="JoomGallery Update Service">https://www.joomgalleryfriends.net/components/com_newversion/xml/extensions3.xml</server>
   </updateservers>
 </extension>
